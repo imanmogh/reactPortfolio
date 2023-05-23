@@ -21,7 +21,7 @@ A simple SPA Portfolio template for developer/designers built with React. Used i
 ## Installation
 To install simply clone the repo down to your local machine. In the CLI in the relative directory, run 'npm i' to get all dependancies required for sucessful download of packages.
 
-## Usage (Instructions/How-To Use)
+## Usage
 To use the package as a consumer, simply visit the deployed link and use the navigation bar to see different pages. On the resume section, clicking 'Download Resume' will download a PDF of my resume to your computer. On the contact section, simply fill out the form - meeting all requirements - and click 'Send Message.'
 
 To use the package as a Developer, after following the installation steps above, at the root of the project directory run command 'npm start' in your CLI, then click the link in the CLI to view site from localhost. Be sure you're also set up to run a react app if you want to create your own. Remember to set up your Formspree Account to collect contact information!
@@ -30,7 +30,7 @@ Formspree - npm
 Formspree Website
 
 ## Deployment
-Live URL: D
+Live URL: 
 
 ## Screenshot
 alt text
