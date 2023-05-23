@@ -1,22 +1,22 @@
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# reactPortfolio
+# Portfolio
 A portfolio that uses react to show off my projects and resume
 
 ## Description
 A simple SPA Portfolio template for developer/designers built with React. Used it to showcase your work, testimonials and other information to clients. This is an updated portfolio using react showcasing my full-stack dev projects. It contains an about me, project/portfolio section, resume secion with a downloadable pdf, and a contact secton with a form to submit that i will receive via email.
 
 ## Table of Contents
-   - [Installation] (#installation)
-   - [Usage] (#usage)
-   - [Deployment] (#deployment)
-   - [Screenshot] (#screenshot)
-   - [Features] (#features)
-   - [Technologies] (#technologies)
-   - [License] (#license)
-   - [Credits] (#credits)
-   - [Contribution] (#contributions)
-   - [Contact] (#contact)
+   - [Installation](#installation)
+   - [Usage](#usage)
+   - [Deployment](#deployment)
+   - [Screenshot](#screenshot)
+   - [Features](#features)
+   - [Technologies](#technologies)
+   - [License](#license)
+   - [Credits](#credits)
+   - [Contribution](#contributions)
+   - [Contact](#contact)
 
 ## Installation
 To install simply clone the repo down to your local machine. In the CLI in the relative directory, run 'npm i' to get all dependancies required for sucessful download of packages.
