@@ -39,7 +39,7 @@ alt text
 Formspree, GitHub Pages Deploy
 
 ## Technologies
-JavaScript, HTML, CSS, Node.js, React, Bootstrap
+JavaScript, HTML, CSS, Node.js, React, Tailwind
 
 ## License
 This project is licensed under the MIT license. For more information about this license and what it entails, visit the MIT website here
