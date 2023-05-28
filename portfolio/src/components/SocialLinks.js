@@ -36,7 +36,7 @@ const links = [
         href: 'mailto:imanmoghaddas@yahoo.com',
     },
     {
-        id: 3,
+        id: 4,
         child: (
             <>
                 Instagram <BsInstagram size={30}/>
@@ -58,7 +58,7 @@ const links = [
 ]
 
   return (
-    <div className='hidden lg:flex flex flex-col top-[35%] left-0 fixed'>
+    <div className='hidden lg:flex flex-col top-[35%] left-0 fixed'>
         <ul>
 
             {links.map(({id, child, href, style, download}) => (
