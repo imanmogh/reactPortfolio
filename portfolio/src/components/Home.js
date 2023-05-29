@@ -11,11 +11,10 @@ export const Home = () => {
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl sm::text-7xl font-bold text-white'>I am a Full Stack Developer</h2>
                 <p className=' text-gray-500 py-4 max-w-md '>
-                Hi my name is Iman Moghaddas and I am 24 year old software developer. 
-                I graduated from Kennesaw State Universiy in December of 2021 with a bachelors of science in Software Engineering.
-                Currently I am in the Gerogia Tech bootcamp program for web development to help advance my skills and make a more proficent sofgware developer. 
-                Besides software development my hobbies including creating and recording music. I am a singer-songwriter who has been making music since a teenager. 
-                I also enjoying learning new activites so I can be well versed in multiple things.
+                Qualified and reliable Professional with strong expertise in Programming, Technology, Troubleshooting, Innovation, and Customer Service. 
+                Proficient in assisting clients and customers to help organize and increase efficiency within a private organization or business. 
+                Thrive in culturally diverse environments with high client satisfaction. Strong administrative, organizational and technology experience with keen 
+                attention to detail. Also, a love for music, music creation/production and entertainment that helps keep mind very creative/innovative and alert.
                 </p>
 
                 <div>
