@@ -4,7 +4,7 @@
 A portfolio that uses react to show off my projects and resume
 
 ## Description
-A react portfolio for developer/designers. It is used to showcase my work, projects and other information to potential clients or employers. This portfolio uses react and showcases my full-stack projects. It contains an about me, project/portfolio section, resume secion with a downloadable pdf, and a contact secton with a form to submit that i will receive.
+A react portfolio for developer/designers. It is used to showcase my work, projects and other information to potential clients or employers. This portfolio uses react with tailwind and showcases my full-stack projects. It contains an about, portfolio section, experience secion, a downloadable pdf, and a contact secton with a form to submit that i will receive.
 
 ## Table of Contents
    - [Installation](#installation)
@@ -22,12 +22,9 @@ A react portfolio for developer/designers. It is used to showcase my work, proje
 To install simply clone the repo down to your local machine. In the CLI in the relative directory, run 'npm i' to get all dependancies required for sucessful download of packages.
 
 ## Usage
-To use the package as a consumer, simply visit the deployed link and use the navigation bar to see different pages. On the resume section, clicking 'Download Resume' will download a PDF of my resume to your computer. On the contact section, simply fill out the form - meeting all requirements - and click 'Send Message.'
+To use the package as a consumer, simply visit the deployed link and use the navigation bar to see different pages. On the links to the side, click 'Resume' and it will download a PDF of my resume to your computer. On the contact section, simply fill out the form - meeting all requirements - and click 'Send Message.'
 
-To use the package as a Developer, after following the installation steps above, at the root of the project directory run command 'npm start' in your CLI, then click the link in the CLI to view site from localhost. Be sure you're also set up to run a react app if you want to create your own. Remember to set up your Formspree Account to collect contact information!
-
-Formspree - npm
-Formspree Website
+To use the package as a Developer, after following the installation steps above, at the root of the project directory run command 'npm start' in your CLI, then click the link in the CLI to view site from localhost. Be sure you're also set up to run a react app if you want to create your own. Remember to set up a Getform.io to collect contact information!
 
 ## Deployment
 Live URL: 
@@ -36,7 +33,7 @@ Live URL:
 alt text
 
 ## Features
-Formspree, GitHub Pages Deploy
+Getform, GitHub Pages Deploy
 
 ## Technologies
 JavaScript, HTML, CSS, Node.js, React, Tailwind
