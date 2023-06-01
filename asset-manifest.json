@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.ff9a91b7.css",
-    "main.js": "/reactPortfolio/static/js/main.22328b8d.js",
+    "main.css": "/reactPortfolio/static/css/main.7f08f2d8.css",
+    "main.js": "/reactPortfolio/static/js/main.220abbae.js",
     "static/media/profilePic.jpeg": "/reactPortfolio/static/media/profilePic.431acb34b22ffd5fe2a8.jpeg",
     "static/media/passwordGenerator.png": "/reactPortfolio/static/media/passwordGenerator.dc746ef6b28ca4931791.png",
     "static/media/codeQuiz.png": "/reactPortfolio/static/media/codeQuiz.b800bc1ca623ee37e122.png",
@@ -17,11 +17,11 @@
     "static/media/css.png": "/reactPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/reactPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/reactPortfolio/index.html",
-    "main.ff9a91b7.css.map": "/reactPortfolio/static/css/main.ff9a91b7.css.map",
-    "main.22328b8d.js.map": "/reactPortfolio/static/js/main.22328b8d.js.map"
+    "main.7f08f2d8.css.map": "/reactPortfolio/static/css/main.7f08f2d8.css.map",
+    "main.220abbae.js.map": "/reactPortfolio/static/js/main.220abbae.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff9a91b7.css",
-    "static/js/main.22328b8d.js"
+    "static/css/main.7f08f2d8.css",
+    "static/js/main.220abbae.js"
   ]
 }
