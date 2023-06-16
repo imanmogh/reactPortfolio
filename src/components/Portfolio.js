@@ -5,6 +5,8 @@ import noteTaker from '../assets/noteTaker.png'
 import passwordGenerator from '../assets/passwordGenerator.png'
 import textEditor from '../assets/textEditor.png'
 import tripPlanner from '../assets/tripPlanner.png'
+import calmQuest from '../assets/calmQuest.png'
+
 
 
 export const Portfolio = () => {
@@ -45,6 +47,12 @@ export const Portfolio = () => {
             src: tripPlanner,
             demoLink: "https://wkerby.github.io/trip-planner/",
             codeLink: "https://github.com/imanmogh/tripPlanner"
+        },
+        {
+            id: 7,
+            src: calmQuest,
+            demoLink: "https://calmquest.herokuapp.com/login",
+            codeLink: "https://github.com/imanmogh/CalmQuest"
         }
     ]
 
