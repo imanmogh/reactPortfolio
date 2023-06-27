@@ -6,6 +6,8 @@ import reactLogo from '../assets/react.png'
 import graphql from '../assets/graphql.png'
 import github from '../assets/github.png'
 import tailwind from '../assets/tailwind.png'
+import nextjs from '../assets/next-js.png'
+
 
 
 
@@ -52,6 +54,12 @@ export const Experience = () => {
             id:7,
             src: github,
             title: 'GitHub',
+            style: 'shadow-gray-400'
+        },
+        {
+            id:8,
+            src: nextjs,
+            title: 'Next Js',
             style: 'shadow-gray-400'
         }
     ]

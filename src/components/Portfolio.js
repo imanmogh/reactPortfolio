@@ -6,6 +6,7 @@ import passwordGenerator from '../assets/passwordGenerator.png'
 import textEditor from '../assets/textEditor.png'
 import tripPlanner from '../assets/tripPlanner.png'
 import calmQuest from '../assets/calmQuest.png'
+import promptopia from '../assets/promptopia.png'
 
 
 
@@ -14,15 +15,21 @@ export const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
-            src: ABMR,
-            demoLink: "https://another-bad-music-review-woo.herokuapp.com/",
-            codeLink: "https://github.com/imanmogh/anotherBadMusicReview"
+            src: promptopia,
+            demoLink: "https://promptopia-smoky-six.vercel.app/",
+            codeLink: "https://github.com/imanmogh/promptopia"
         },
         {
             id: 2,
-            src: codeQuiz,
-            demoLink: "https://imanmogh.github.io/codeQuiz/",
-            codeLink: "https://github.com/imanmogh/codeQuiz"
+            src: calmQuest,
+            demoLink: "https://calmquest.herokuapp.com/login",
+            codeLink: "https://github.com/imanmogh/CalmQuest"
+        },
+        {
+            id: 2,
+            src: ABMR,
+            demoLink: "https://another-bad-music-review-woo.herokuapp.com/",
+            codeLink: "https://github.com/imanmogh/anotherBadMusicReview"
         },
         {
             id: 3,
@@ -50,10 +57,10 @@ export const Portfolio = () => {
         },
         {
             id: 7,
-            src: calmQuest,
-            demoLink: "https://calmquest.herokuapp.com/login",
-            codeLink: "https://github.com/imanmogh/CalmQuest"
-        }
+            src: codeQuiz,
+            demoLink: "https://imanmogh.github.io/codeQuiz/",
+            codeLink: "https://github.com/imanmogh/codeQuiz"
+        },
     ]
 
 
