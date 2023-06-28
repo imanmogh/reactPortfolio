@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.7f08f2d8.css",
-    "main.js": "/reactPortfolio/static/js/main.550104dd.js",
+    "main.js": "/reactPortfolio/static/js/main.a003e6ce.js",
+    "static/media/promptopia.png": "/reactPortfolio/static/media/promptopia.fe5887452ee6365544c6.png",
     "static/media/profilePic.jpeg": "/reactPortfolio/static/media/profilePic.431acb34b22ffd5fe2a8.jpeg",
     "static/media/passwordGenerator.png": "/reactPortfolio/static/media/passwordGenerator.dc746ef6b28ca4931791.png",
     "static/media/codeQuiz.png": "/reactPortfolio/static/media/codeQuiz.b800bc1ca623ee37e122.png",
@@ -16,13 +17,14 @@
     "static/media/html.png": "/reactPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/reactPortfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/reactPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/next-js.png": "/reactPortfolio/static/media/next-js.9f8054a6dc0837262000.png",
     "static/media/javascript.png": "/reactPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/reactPortfolio/index.html",
     "main.7f08f2d8.css.map": "/reactPortfolio/static/css/main.7f08f2d8.css.map",
-    "main.550104dd.js.map": "/reactPortfolio/static/js/main.550104dd.js.map"
+    "main.a003e6ce.js.map": "/reactPortfolio/static/js/main.a003e6ce.js.map"
   },
   "entrypoints": [
     "static/css/main.7f08f2d8.css",
-    "static/js/main.550104dd.js"
+    "static/js/main.a003e6ce.js"
   ]
 }
