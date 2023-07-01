@@ -60,10 +60,9 @@ export const Experience = () => {
             id:8,
             src: nextjs,
             title: 'Next Js',
-            style: 'shadow-gray-400'
+            style: 'shadow-blue-600'
         }
     ]
-
 
   return (
     <div name="experience" className='bg-gradient-to-b from-gray-800 to-black w-full h-screen'>
