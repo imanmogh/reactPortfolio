@@ -1,10 +1,7 @@
 import React from 'react'
 import ABMR from '../assets/ABMR.png'
-import codeQuiz from '../assets/codeQuiz.png'
 import noteTaker from '../assets/noteTaker.png'
 import passwordGenerator from '../assets/passwordGenerator.png'
-import textEditor from '../assets/textEditor.png'
-import tripPlanner from '../assets/tripPlanner.png'
 import calmQuest from '../assets/calmQuest.png'
 import promptopia from '../assets/promptopia.png'
 
@@ -43,24 +40,7 @@ export const Portfolio = () => {
             demoLink: "https://imanmogh.github.io/passwordGenerator/",
             codeLink: "https://github.com/imanmogh/passwordGenerator"
         },
-        {
-            id: 5,
-            src: textEditor,
-            demoLink: "https://polar-caverns-59390.herokuapp.com/",
-            codeLink: "https://github.com/imanmogh/textEditor"
-        },
-        {
-            id: 6,
-            src: tripPlanner,
-            demoLink: "https://wkerby.github.io/trip-planner/",
-            codeLink: "https://github.com/imanmogh/tripPlanner"
-        },
-        {
-            id: 7,
-            src: codeQuiz,
-            demoLink: "https://imanmogh.github.io/codeQuiz/",
-            codeLink: "https://github.com/imanmogh/codeQuiz"
-        },
+
     ]
 
 
