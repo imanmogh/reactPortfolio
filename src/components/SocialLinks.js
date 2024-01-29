@@ -51,7 +51,7 @@ const links = [
                 Resume <BsFillPersonLinesFill size={30}/>
             </>
         ),
-        href: 'public/resume.pdf',
+        href: 'public/Iman-Resume.pdf',
         style: 'rounded-br-md',
         download: true
     }
